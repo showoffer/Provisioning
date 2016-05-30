@@ -1,0 +1,1 @@
+console.error("\n/Users/alexey.deyko/Documents/CactusSoft/SkyCentrics/Provisioning/src/js/templates/viewport.html:1\n<div id=\"header\">Head</div>\n^\nParseError: Unexpected token");
